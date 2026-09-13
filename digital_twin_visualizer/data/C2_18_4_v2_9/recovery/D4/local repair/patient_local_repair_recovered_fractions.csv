@@ -1,0 +1,12 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,repair_phase,patient_local_status,patient_local_cost,original_machine,original_day,original_window
+31,5,2,6,3,12,1,2,4,True,same_day_later_compatible_machine,recovered,1011,6,6,2
+54,3,1,6,3,24,1,4,6,True,same_day_later_compatible_machine,recovered,1011,2,6,2
+72,2,4,6,3,24,1,5,7,True,same_day_later_compatible_machine,recovered,1011,2,6,2
+73,2,1,6,4,24,1,5,7,True,same_day_later_same_machine,recovered,2,1,6,2
+76,1,5,6,3,24,1,6,8,True,same_day_later_compatible_machine,recovered,1011,6,6,2
+77,1,9,6,3,24,1,6,8,True,same_day_later_compatible_machine,recovered,1011,6,6,2
+28,6,8,6,3,12,2,1,15,True,same_day_later_same_machine,recovered,1,8,6,2
+74,1,10,6,4,72,2,6,20,True,same_day_later_same_machine,recovered,2,10,6,2
+78,1,10,6,3,30,2,6,20,True,same_day_later_same_machine,recovered,1,10,6,2
+83,1,8,6,3,24,2,6,20,True,same_day_later_same_machine,recovered,1,8,6,2
+12,6,1,6,4,12,3,1,28,True,same_day_later_same_machine,recovered,2,1,6,2

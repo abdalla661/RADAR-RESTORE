@@ -1,0 +1,14 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,repair_phase,patient_local_status,cascade_shift_days,original_machine,original_day,original_window,patient_local_cost
+27,22,9,23,4,12,1,1,3,True,minimal_patient_suffix_cascade,recovered,1.0,9,22,4,
+210,3,1,23,4,24,1,20,22,True,future_gap,recovered,,1,22,4,11000.0
+214,3,10,23,4,40,1,20,22,True,minimal_patient_suffix_cascade,recovered,1.0,10,22,4,
+217,3,1,23,4,24,1,20,22,True,future_gap,recovered,,1,22,4,11000.0
+218,3,8,23,4,24,1,20,22,True,future_gap,recovered,,8,22,4,11000.0
+222,2,1,23,3,24,1,21,23,True,minimal_patient_suffix_cascade,recovered,1.0,1,22,4,
+227,1,1,23,4,24,1,22,24,True,minimal_patient_suffix_cascade,recovered,1.0,1,22,4,
+228,1,4,23,4,24,1,22,24,True,minimal_patient_suffix_cascade,recovered,1.0,4,22,4,
+229,1,4,23,4,24,1,22,24,True,minimal_patient_suffix_cascade,recovered,1.0,4,22,4,
+230,1,10,23,4,40,1,22,24,True,minimal_patient_suffix_cascade,recovered,1.0,10,22,4,
+3,22,2,23,3,12,2,1,14,True,future_gap,recovered,,2,22,4,10301.0
+9,22,5,23,4,12,2,1,14,True,future_gap,recovered,,5,22,4,10300.0
+30,21,7,23,4,12,2,2,16,True,future_gap,recovered,,7,22,4,10300.0

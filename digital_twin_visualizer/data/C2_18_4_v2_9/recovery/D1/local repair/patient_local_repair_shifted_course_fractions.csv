@@ -1,0 +1,4 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,repair_phase,patient_local_status,cascade_shift_days,original_machine,original_day,original_window
+216,3,2,23,3,24,1,20,22,True,minimal_suffix_shifted,shifted_with_patient_course,1,2,22,3
+32,21,2,23,2,12,2,2,16,True,minimal_suffix_shifted,shifted_with_patient_course,1,2,22,2
+32,22,2,24,1,12,2,2,16,True,minimal_suffix_shifted,shifted_with_patient_course,1,2,23,1

@@ -1,0 +1,9 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,scenario_id,scenario_name,recovery_status
+14,21,2,21,4,12,1,1,2,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+32,20,2,21,4,12,2,2,16,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+47,19,2,21,4,12,2,3,17,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+102,14,2,21,4,12,2,8,22,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+186,6,2,21,4,12,1,16,18,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+188,5,2,21,4,12,1,17,19,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+208,3,2,21,4,24,1,19,21,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery
+216,2,2,21,4,24,1,20,22,True,D1_machine_window,One LINAC unavailable for one highly utilized treatment window,unrecovered_no_recovery

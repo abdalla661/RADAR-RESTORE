@@ -1,0 +1,12 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,rtt_stopped_machine_due_to_shortage,scenario_id,scenario_name,recovery_status
+12,6,1,6,2,12,3,1,28,True,1,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+73,2,1,6,2,24,1,5,7,True,1,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+54,3,2,6,2,24,1,4,6,True,2,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+72,2,2,6,2,24,1,5,7,True,2,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+31,5,6,6,2,12,1,2,4,True,6,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+76,1,6,6,2,24,1,6,8,True,6,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+77,1,6,6,2,24,1,6,8,True,6,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+28,6,8,6,2,12,2,1,15,True,8,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+83,1,8,6,2,24,2,6,20,True,8,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+74,1,10,6,2,72,2,6,20,True,10,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery
+78,1,10,6,2,30,2,6,20,True,10,D4_rtt_shortage_50pct,RTT shortage of 50% in a high-pressure treatment window,unrecovered_no_recovery

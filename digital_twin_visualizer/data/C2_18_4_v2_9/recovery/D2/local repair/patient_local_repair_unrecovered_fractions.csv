@@ -1,0 +1,8 @@
+patient,fraction,machine,day,window,duration_minutes,priority,earliest_start_day,target_day,is_preferred_machine,scenario_id,scenario_name,recovery_status,patient_local_status
+219,4,9,24,4,12,1,21,23,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+221,4,9,24,4,12,1,21,23,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+224,4,9,24,4,12,1,21,23,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+246,1,9,24,4,24,1,24,26,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+95,18,9,24,4,12,2,7,21,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+143,13,9,24,4,12,2,12,26,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered
+148,13,9,24,4,12,2,12,26,True,D2_machine_full_day,Unexpected LINAC failure starting in treatment window 1 and persisting through the end of the day,unrecovered_no_recovery,unrecovered

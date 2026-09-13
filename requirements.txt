@@ -1,2 +1,4 @@
 pandas
 ortools==9.15.6755
+streamlit
+openpyxl
