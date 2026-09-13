@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.idea/
+.vscode/
+
+# Generated framework outputs
+modeled_instance/
+baseline_results/
+disruption_results/
+patient_local_repair_results/
+full_reoptimization_results/
+restore_results/
+
+# OS files
+.DS_Store
+Thumbs.db
